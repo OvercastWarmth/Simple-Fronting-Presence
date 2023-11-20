@@ -1,0 +1,15 @@
+[General]
+# Your PluralKit ID. Can be a short ID, UUID, Discord Snowflake, 
+# or "@me" to use the system attached to the token set.
+PluralKitID="vgspl"
+
+# Uncomment this line to use a system token.
+# If left empty, it will use the value of PLURALKIT_TOKEN
+# in your environment variables.
+# PluralKitToken=""
+
+
+# Only change these if you know what you're doing!
+[Advanced]
+# The client ID of the Discord Rich presence
+ClientID="1173850713743446027"

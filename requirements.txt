@@ -1,0 +1,3 @@
+pluralkit
+pypresence
+toml
